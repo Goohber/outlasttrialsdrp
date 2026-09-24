@@ -240,11 +240,11 @@ def check_for_updates():
         bat = current_exe + "_update.bat"
         with open(bat, "w") as f:
             f.write(f"""@echo off
-timeout /t 2 /nobreak >nul
-move /y "{new_exe}" "{current_exe}"
-start "" "{current_exe}"
-del "%~f0"
-""")
+        timeout /t 2 /nobreak >nul
+        move /y "{new_exe}" "{current_exe}"
+        start "" "{current_exe}"
+        del "%~f0"
+        """)
 
         logging.info("Update downloaded — applying on restart.")
         subprocess.Popen(bat, shell=True)
@@ -393,15 +393,21 @@ def unregister_startup():
 
 
 def make_tray_icon():
-    ico_path = os.path.join(BASE_DIR, "outlast.ico")
+    if getattr(sys, "frozen", False):
+        base = sys._MEIPASS
+    else:
+        base = os.path.dirname(os.path.abspath(__file__))
+    
+    ico_path = os.path.join(base, "outlast.ico")
     if os.path.exists(ico_path):
         return Image.open(ico_path).convert("RGBA")
-
+    
+    # Fallback red X
     img = Image.new("RGBA", (64, 64), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(img)
-    draw.ellipse([2, 2, 62, 62], fill=(30, 10, 10, 255))
-    draw.line([16, 16, 48, 48], fill=(200, 30, 30, 255), width=7)
-    draw.line([48, 16, 16, 48], fill=(200, 30, 30, 255), width=7)
+    d   = ImageDraw.Draw(img)
+    d.ellipse([2, 2, 62, 62], fill=(30, 10, 10, 255))
+    d.line([16, 16, 48, 48], fill=(200, 30, 30, 255), width=7)
+    d.line([48, 16, 16, 48], fill=(200, 30, 30, 255), width=7)
     return img
 
 
