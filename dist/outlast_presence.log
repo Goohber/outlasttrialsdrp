@@ -1,0 +1,323 @@
+2026-09-20 12:32:37,219 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:32:44,081 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:32:49,120 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:33:20,513 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:34:48,608 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:34:56,946 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:41:06,713 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:41:44,344 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:44:47,816 [INFO] Already running — exiting duplicate instance.
+2026-09-20 12:47:28,694 [INFO] Registered for startup.
+2026-09-20 12:47:28,694 [INFO] Outlast Presence running. Waiting for game...
+2026-09-20 12:49:14,568 [INFO] The Outlast Trials detected!
+2026-09-20 12:49:14,581 [INFO] Log caught up — state: menu
+2026-09-20 12:49:14,827 [INFO] Status: Main Menu
+2026-09-20 12:52:36,808 [INFO] Status: Main Menu
+2026-09-20 12:52:57,945 [INFO] Status: Main Menu
+2026-09-20 12:54:25,297 [INFO] Status: Main Menu
+2026-09-20 12:58:05,087 [INFO] Status: Looking for a match…
+2026-09-20 12:58:08,180 [INFO] Status: In the Sleep Room
+2026-09-20 12:59:05,735 [INFO] Status: Looking for a match…
+2026-09-20 12:59:27,337 [INFO] Status: Riding the Tram \u2192 Cancel the Autopsy — Introductory · 1/4 players
+2026-09-20 13:00:45,930 [INFO] Status: Cancel the Autopsy — Introductory · Invasion · 1/4 players
+2026-09-20 13:20:16,780 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-20 13:41:21,829 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-20 13:42:55,225 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-20 13:43:23,854 [INFO] Removed from startup.
+2026-09-20 13:44:49,880 [INFO] Registered for startup.
+2026-09-20 13:44:49,881 [INFO] Outlast Presence running. Waiting for game...
+2026-09-20 13:44:50,537 [INFO] The Outlast Trials detected!
+2026-09-20 13:44:50,583 [INFO] Log caught up — state: lobby
+2026-09-20 13:44:50,788 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-20 13:45:33,109 [INFO] Status: Looking for a match…
+2026-09-20 13:45:45,255 [INFO] Status: Riding the Tram \u2192 Sabotage the Lockdown — Introductory · 1/4 players
+2026-09-20 13:47:03,720 [INFO] Status: Sabotage the Lockdown — Introductory · Invasion · 1/4 players
+2026-09-20 13:47:51,994 [INFO] Status: Sabotage the Lockdown — Introductory · 1/4 players
+2026-09-20 13:53:53,306 [INFO] Status: Sabotage the Lockdown — Introductory · Invasion · 1/4 players
+2026-09-20 14:30:03,485 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-20 14:31:18,862 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-20 14:37:26,356 [INFO] Removed from startup.
+2026-09-20 14:38:28,086 [INFO] Registered for startup.
+2026-09-20 14:38:28,087 [INFO] Outlast Presence running. Waiting for game...
+2026-09-20 14:38:28,733 [INFO] The Outlast Trials detected!
+2026-09-20 14:38:28,788 [INFO] Log caught up — state: lobby
+2026-09-20 14:38:28,991 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-20 14:40:26,865 [INFO] Status: Looking for a match…
+2026-09-20 14:40:38,948 [INFO] Status: Riding the Tram \u2192 Eliminate the Past — Introductory · 1/4 players
+2026-09-20 14:40:54,026 [INFO] Removed from startup.
+2026-09-20 14:43:01,166 [INFO] Registered for startup.
+2026-09-20 14:43:01,167 [INFO] Outlast Presence running. Waiting for game...
+2026-09-20 14:43:01,764 [INFO] The Outlast Trials detected!
+2026-09-20 14:43:01,816 [INFO] Log caught up — state: trial
+2026-09-20 14:43:01,997 [INFO] Status: Eliminate the Past — Introductory · 1/4 players
+2026-09-20 14:55:43,948 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-20 14:57:14,522 [INFO] The Outlast Trials closed.
+2026-09-20 14:57:19,179 [INFO] Removed from startup.
+2026-09-20 19:49:39,923 [INFO] Registered for startup.
+2026-09-20 19:49:39,924 [INFO] Outlast Presence running. Waiting for game...
+2026-09-20 19:50:13,612 [INFO] The Outlast Trials detected!
+2026-09-20 19:50:13,627 [INFO] Log caught up — state: menu
+2026-09-20 19:50:14,334 [INFO] Status: Main Menu
+2026-09-20 19:53:12,369 [INFO] Status: Awaiting...
+2026-09-20 19:53:15,478 [INFO] Status: In the Sleep Room
+2026-09-20 19:54:18,870 [INFO] Status: In the Sleep Room
+2026-09-20 20:00:23,516 [INFO] Status: In the Sleep Room
+2026-09-20 20:00:35,582 [INFO] The Outlast Trials closed.
+2026-09-21 08:30:44,845 [INFO] Outlast Presence running. Waiting for game...
+2026-09-21 10:34:29,789 [INFO] The Outlast Trials detected!
+2026-09-21 10:34:29,827 [INFO] Log caught up — state: lobby
+2026-09-21 10:34:30,592 [INFO] Status: In the Sleep Room
+2026-09-21 10:37:13,714 [INFO] Removed from startup.
+2026-09-21 10:37:44,469 [INFO] Registered for startup.
+2026-09-21 10:37:44,470 [INFO] Outlast Presence running. Waiting for game...
+2026-09-21 10:37:45,151 [INFO] The Outlast Trials detected!
+2026-09-21 10:37:45,181 [INFO] Log caught up — state: lobby
+2026-09-21 10:37:45,430 [INFO] Status: In the Sleep Room
+2026-09-21 10:39:10,025 [INFO] Status: Awaiting...
+2026-09-21 10:39:19,147 [INFO] Status: Shuttle | Release the Prisoners — Introductory · 1/4 players
+2026-09-21 10:40:34,700 [INFO] Status: Release the Prisoners — Introductory · 1/4 players
+2026-09-21 10:52:31,222 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-21 10:54:23,031 [INFO] Status: Awaiting...
+2026-09-21 10:54:32,157 [INFO] Status: Shuttle | Teach the Police Officer — Introductory · 1/4 players
+2026-09-21 10:55:50,634 [INFO] Status: Teach the Police Officer — Introductory · 1/4 players
+2026-09-21 11:22:16,928 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-21 11:31:04,930 [INFO] The Outlast Trials closed.
+2026-09-21 18:46:00,513 [INFO] Outlast Presence running. Waiting for game...
+2026-09-21 19:35:58,020 [INFO] The Outlast Trials detected!
+2026-09-21 19:35:58,080 [INFO] Log caught up — state: lobby
+2026-09-21 19:35:58,801 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-21 19:41:01,594 [INFO] Removed from startup.
+2026-09-21 19:41:19,202 [INFO] Registered for startup.
+2026-09-21 19:41:19,203 [INFO] Outlast Presence running. Waiting for game...
+2026-09-21 19:41:19,734 [INFO] The Outlast Trials detected!
+2026-09-21 19:41:19,746 [INFO] Log caught up — state: trial
+2026-09-21 19:41:19,939 [INFO] Status: Seize the Narcotics — Introductory · 1/4 players
+2026-09-21 19:58:38,414 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-21 20:04:06,983 [INFO] Status: Awaiting...
+2026-09-21 20:04:37,192 [INFO] Status: Shuttle | Feed the Children — Introductory · 1/4 players
+2026-09-21 20:06:19,841 [INFO] Status: Feed the Children — Introductory · 1/4 players
+2026-09-21 20:18:16,380 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-21 20:26:51,188 [INFO] The Outlast Trials closed.
+2026-09-22 07:27:35,927 [INFO] Outlast Presence running. Waiting for game...
+2026-09-22 18:49:25,800 [INFO] The Outlast Trials detected!
+2026-09-22 18:49:25,850 [INFO] Log caught up — state: lobby
+2026-09-22 18:49:27,073 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-22 19:11:04,630 [INFO] Removed from startup.
+2026-09-22 19:11:17,272 [INFO] Registered for startup.
+2026-09-22 19:11:17,274 [INFO] Outlast Presence running. Waiting for game...
+2026-09-22 19:11:18,020 [INFO] The Outlast Trials detected!
+2026-09-22 19:11:18,053 [INFO] Log caught up — state: tram
+2026-09-22 19:11:18,391 [INFO] Status: Shuttle | Drill the Futterman — Intensive · 1/4 players
+2026-09-22 19:11:48,657 [INFO] Status: Drill the Futterman — Intensive · 1/4 players
+2026-09-22 19:18:05,201 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-22 19:26:31,476 [INFO] Status: Awaiting...
+2026-09-22 19:26:37,532 [INFO] Status: Shuttle | Change the Program — Intensive · 1/4 players
+2026-09-22 19:27:25,887 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-22 19:27:50,083 [INFO] Status: Change the Program — Intensive · 1/4 players
+2026-09-22 19:32:42,435 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-22 19:58:34,085 [INFO] Status: Awaiting...
+2026-09-22 19:58:40,329 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-22 20:09:38,224 [INFO] The Outlast Trials closed.
+2026-09-23 06:08:52,285 [INFO] Outlast Presence running. Waiting for game...
+2026-09-23 10:12:27,684 [INFO] The Outlast Trials detected!
+2026-09-23 10:12:27,708 [INFO] Log caught up — state: menu
+2026-09-23 10:12:28,480 [INFO] Status: Main Menu
+2026-09-23 10:15:17,469 [INFO] Status: Awaiting...
+2026-09-23 10:15:26,568 [INFO] Status: In the Sleep Room
+2026-09-23 10:18:03,232 [INFO] Status: Awaiting...
+2026-09-23 10:18:30,460 [INFO] Status: Shuttle | Escape the Courthouse — Standard · 1/4 players
+2026-09-23 10:19:49,020 [INFO] Status: Escape the Courthouse — Standard · 1/4 players
+2026-09-23 10:38:40,679 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 10:53:47,954 [INFO] Status: Awaiting...
+2026-09-23 10:54:00,081 [INFO] Status: Shuttle | Fund the Campaign — Standard · 2/4 players
+2026-09-23 10:55:21,623 [INFO] Status: Fund the Campaign — Standard · 2/4 players
+2026-09-23 11:08:28,100 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 11:08:49,310 [INFO] Status: Awaiting...
+2026-09-23 11:09:16,674 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 11:11:53,676 [INFO] Status: Awaiting...
+2026-09-23 11:12:02,827 [INFO] Status: Shuttle | Silence the Idol — Standard · 2/4 players
+2026-09-23 11:13:24,367 [INFO] Status: Silence the Idol — Standard · 2/4 players
+2026-09-23 11:13:33,507 [INFO] Status: Silence the Idol — Standard · Invasion · 2/4 players
+2026-09-23 11:47:36,685 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 11:47:54,900 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 11:47:57,927 [INFO] Status: Awaiting...
+2026-09-23 11:48:16,188 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 11:51:53,208 [INFO] Status: Awaiting...
+2026-09-23 11:52:05,346 [INFO] Status: Shuttle | Change the Program — Standard · 2/4 players
+2026-09-23 11:53:23,849 [INFO] Status: Change the Program — Standard · 2/4 players
+2026-09-23 12:05:09,094 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 12:05:30,175 [INFO] Status: Awaiting...
+2026-09-23 12:05:45,345 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 12:08:55,578 [INFO] Status: Awaiting...
+2026-09-23 12:09:07,729 [INFO] Status: Shuttle | Destroy the Evidence — Introductory · 2/4 players
+2026-09-23 12:10:26,220 [INFO] Status: Destroy the Evidence — Introductory · 2/4 players
+2026-09-23 12:23:08,570 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 12:23:20,641 [INFO] Status: Awaiting...
+2026-09-23 12:23:26,715 [INFO] Status: Shuttle | Cancel the Broadcast — Introductory · 2/4 players
+2026-09-23 12:23:29,747 [INFO] Status: Shuttle | Cancel the Broadcast — Introductory · 2/4 players
+2026-09-23 12:24:39,245 [INFO] Status: Cancel the Broadcast — Escalation — Step 2 · Invasion · 2/4 players
+2026-09-23 12:36:00,152 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 12:36:15,367 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 12:36:21,589 [INFO] Status: Shuttle | Kidnap the Mistress — Introductory · 2/4 players
+2026-09-23 12:36:24,626 [INFO] Status: Shuttle | Kidnap the Mistress — Introductory · 2/4 players
+2026-09-23 12:37:34,133 [INFO] Status: Kidnap the Mistress — Escalation — Step 3 · 2/4 players
+2026-09-23 12:51:01,980 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 12:51:23,090 [INFO] Status: Awaiting...
+2026-09-23 12:51:32,226 [INFO] Status: Awaiting...
+2026-09-23 12:52:44,705 [INFO] Status: Foster the Orphans — Escalation — Step 4 · 2/4 players
+2026-09-23 12:56:18,688 [INFO] Status: Foster the Orphans — Escalation — Step 4 · Invasion · 2/4 players
+2026-09-23 13:02:23,493 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 13:02:26,521 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 13:02:38,639 [INFO] Status: Awaiting...
+2026-09-23 13:02:47,712 [INFO] Status: Shuttle | Redeem Your Freedom — Introductory · 2/4 players
+2026-09-23 13:02:50,737 [INFO] Status: Shuttle | Redeem Your Freedom — Introductory · 2/4 players
+2026-09-23 13:04:00,208 [INFO] Status: Redeem Your Freedom — Escalation — Step 5 · 2/4 players
+2026-09-23 13:09:43,573 [INFO] Status: Redeem Your Freedom — Escalation — Step 5 · Invasion · 2/4 players
+2026-09-23 13:13:08,621 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 13:13:11,647 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 13:13:20,694 [INFO] Status: Awaiting...
+2026-09-23 13:13:29,758 [INFO] Status: Shuttle | Deface the Futtermans — Standard · 3/4 players
+2026-09-23 13:13:32,784 [INFO] Status: Shuttle | Deface the Futtermans — Standard · 3/4 players
+2026-09-23 13:14:42,216 [INFO] Status: Deface the Futtermans — Escalation — Step 6 · 3/4 players
+2026-09-23 13:16:00,735 [INFO] Status: Deface the Futtermans — Escalation — Step 6 · Invasion · 3/4 players
+2026-09-23 13:20:53,204 [INFO] Status: In the Sleep Room — 3/4 players
+2026-09-23 13:20:56,272 [INFO] Status: In the Sleep Room — 3/4 players
+2026-09-23 13:21:14,418 [INFO] Status: Awaiting...
+2026-09-23 13:21:59,786 [INFO] Status: In the Sleep Room — 3/4 players
+2026-09-23 13:27:50,032 [INFO] Status: Awaiting...
+2026-09-23 13:28:05,143 [INFO] Status: Shuttle | Open the Gates — Introductory · 2/4 players
+2026-09-23 13:28:08,389 [INFO] Status: Shuttle | Open the Gates — Introductory · 2/4 players
+2026-09-23 13:29:44,916 [INFO] Status: Open the Gates — Escalation — Step 1 · 2/4 players
+2026-09-23 13:38:53,095 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 13:39:05,182 [INFO] Status: Awaiting...
+2026-09-23 13:39:14,267 [INFO] Status: Shuttle | Cook the Informant — Introductory · 2/4 players
+2026-09-23 13:39:17,292 [INFO] Status: Shuttle | Cook the Informant — Introductory · 2/4 players
+2026-09-23 13:40:26,746 [INFO] Status: Cook the Informant — Escalation — Step 2 · 2/4 players
+2026-09-23 13:50:50,567 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 13:51:05,687 [INFO] Status: Awaiting...
+2026-09-23 13:51:14,754 [INFO] Status: Shuttle | Cancel the Autopsy — Introductory · 2/4 players
+2026-09-23 13:51:17,781 [INFO] Status: Shuttle | Cancel the Autopsy — Introductory · 2/4 players
+2026-09-23 13:52:27,165 [INFO] Status: Cancel the Autopsy — Escalation — Step 3 · 2/4 players
+2026-09-23 13:59:01,776 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 13:59:16,932 [INFO] Status: Awaiting...
+2026-09-23 13:59:23,106 [INFO] Status: Shuttle | Sentence the Prosecuted — Introductory · 2/4 players
+2026-09-23 13:59:26,250 [INFO] Status: Shuttle | Sentence the Prosecuted — Introductory · 2/4 players
+2026-09-23 14:00:35,698 [INFO] Status: Sentence the Prosecuted — Escalation — Step 4 · 2/4 players
+2026-09-23 14:02:09,281 [INFO] Status: Sentence the Prosecuted — Introductory · 2/4 players
+2026-09-23 14:08:40,728 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:11:29,511 [INFO] Status: Awaiting...
+2026-09-23 14:11:35,688 [INFO] Status: Shuttle | Destroy the Evidence — Introductory · 2/4 players
+2026-09-23 14:11:38,764 [INFO] Status: Shuttle | Destroy the Evidence — Introductory · 2/4 players
+2026-09-23 14:12:48,367 [INFO] Status: Destroy the Evidence — Escalation — Step 5 · Invasion · 2/4 players
+2026-09-23 14:18:56,107 [INFO] Status: Destroy the Evidence — Introductory · Invasion · 2/4 players
+2026-09-23 14:19:14,247 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:19:23,350 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:20:56,829 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:21:15,015 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:21:45,361 [INFO] Status: Awaiting...
+2026-09-23 14:21:54,523 [INFO] Status: Shuttle | Sabotage the Lockdown — Standard · 4/4 players
+2026-09-23 14:22:03,640 [INFO] Status: Shuttle | Sabotage the Lockdown — Standard · 4/4 players
+2026-09-23 14:23:13,184 [INFO] Status: Sabotage the Lockdown — Escalation — Step 6 · Invasion · 4/4 players
+2026-09-23 14:25:19,816 [INFO] Status: In the Sleep Room — 4/4 players
+2026-09-23 14:25:37,942 [INFO] Status: In the Sleep Room — 4/4 players
+2026-09-23 14:26:20,197 [INFO] Status: In the Sleep Room — 4/4 players
+2026-09-23 14:28:14,728 [INFO] Status: Awaiting...
+2026-09-23 14:28:20,870 [INFO] Status: Shuttle | Incinerate the Relic — Standard · 4/4 players
+2026-09-23 14:28:24,420 [INFO] Status: Shuttle | Incinerate the Relic — Standard · 4/4 players
+2026-09-23 14:28:54,743 [INFO] Status: In the Sleep Room — 4/4 players
+2026-09-23 14:28:58,044 [INFO] Status: In the Sleep Room — 4/4 players
+2026-09-23 14:29:07,147 [INFO] Status: In the Sleep Room — 4/4 players
+2026-09-23 14:30:16,655 [INFO] Status: Incinerate the Relic — Standard · 4/4 players
+2026-09-23 14:32:44,344 [INFO] Status: In the Sleep Room — 4/4 players
+2026-09-23 14:41:34,801 [INFO] Status: Awaiting...
+2026-09-23 14:41:37,830 [INFO] Status: In the Sleep Room — 4/4 players
+2026-09-23 14:43:56,772 [INFO] Status: Awaiting...
+2026-09-23 14:44:08,912 [INFO] Status: Awaiting...
+2026-09-23 14:44:24,090 [INFO] Status: Shuttle | Flatten the Foreman — Standard · 2/4 players
+2026-09-23 14:45:24,477 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:45:33,858 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:46:10,153 [INFO] Status: Flatten the Foreman — Standard · 2/4 players
+2026-09-23 14:46:19,287 [INFO] Status: Flatten the Foreman — Standard · Invasion · 2/4 players
+2026-09-23 14:54:09,476 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:54:18,544 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:59:17,030 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 14:59:23,130 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 15:00:44,576 [INFO] Status: Awaiting...
+2026-09-23 15:01:05,754 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 15:09:23,684 [INFO] The Outlast Trials closed.
+2026-09-23 16:51:52,366 [INFO] The Outlast Trials detected!
+2026-09-23 16:51:52,386 [INFO] Log caught up — state: menu
+2026-09-23 16:51:52,693 [INFO] Status: Main Menu
+2026-09-23 16:53:59,446 [INFO] Status: Awaiting...
+2026-09-23 16:54:05,542 [INFO] Status: In the Sleep Room
+2026-09-23 16:54:56,947 [INFO] Status: Awaiting...
+2026-09-23 16:55:12,091 [INFO] Status: Shuttle | Release the Prisoners — Standard · 1/4 players
+2026-09-23 16:56:33,594 [INFO] Status: Release the Prisoners — Standard · 1/4 players
+2026-09-23 17:06:23,567 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 17:11:48,657 [INFO] Status: Awaiting...
+2026-09-23 17:12:12,827 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 17:16:50,139 [INFO] Status: Awaiting...
+2026-09-23 17:16:59,207 [INFO] Status: Shuttle | Cancel the Broadcast — Standard · 1/4 players
+2026-09-23 17:18:17,692 [INFO] Status: Cancel the Broadcast — Standard · 1/4 players
+2026-09-23 17:21:21,326 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 17:55:07,527 [INFO] Status: Awaiting...
+2026-09-23 17:55:55,719 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 18:21:35,137 [INFO] Status: Awaiting...
+2026-09-23 18:21:44,212 [INFO] Status: Shuttle | Open the Gates — Standard · 1/4 players
+2026-09-23 18:23:08,731 [INFO] Status: Open the Gates — Standard · 1/4 players
+2026-09-23 18:23:47,969 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 18:24:21,183 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 18:38:11,679 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 18:43:24,819 [INFO] Status: Awaiting...
+2026-09-23 18:43:39,969 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-23 18:48:39,370 [INFO] Status: Awaiting...
+2026-09-23 18:48:48,469 [INFO] Status: Awaiting...
+2026-09-23 18:49:03,607 [INFO] Status: Shuttle | Release the Prisoners — Intensive · 2/4 players
+2026-09-23 18:50:22,110 [INFO] Status: Release the Prisoners — Intensive · Invasion · 2/4 players
+2026-09-23 19:01:04,369 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:01:13,445 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:05:29,477 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:07:36,388 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:07:57,543 [INFO] Status: Awaiting...
+2026-09-23 19:08:00,650 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:10:43,743 [INFO] Status: Awaiting...
+2026-09-23 19:10:55,916 [INFO] Status: Shuttle | Kill the Politician — Standard · 2/4 players
+2026-09-23 19:12:17,615 [INFO] Status: Kill the Politician — Standard · 2/4 players
+2026-09-23 19:12:23,650 [INFO] Status: Kill the Politician — Standard · Invasion · 2/4 players
+2026-09-23 19:15:06,464 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:15:15,573 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:34:11,547 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:34:53,879 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:35:15,047 [INFO] Status: Awaiting...
+2026-09-23 19:35:39,281 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:38:58,751 [INFO] Status: Awaiting...
+2026-09-23 19:39:07,885 [INFO] Status: Shuttle | Solve The Murder — Standard · 2/4 players
+2026-09-23 19:39:10,959 [INFO] Status: Shuttle | Solve The Murder — Standard · 2/4 players
+2026-09-23 19:40:29,502 [INFO] Status: Solve The Murder — Standard · Invasion · 2/4 players
+2026-09-23 19:47:13,409 [INFO] Status: Solve The Murder — Standard · 2/4 players
+2026-09-23 19:48:19,881 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:48:41,040 [INFO] Status: Awaiting...
+2026-09-23 19:48:56,281 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-23 19:53:48,897 [INFO] The Outlast Trials closed.
+2026-09-24 08:26:36,851 [INFO] Outlast Presence running. Waiting for game...
+2026-09-24 10:20:29,096 [INFO] The Outlast Trials detected!
+2026-09-24 10:20:29,317 [INFO] Log caught up — state: lobby
+2026-09-24 10:20:30,009 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-24 10:30:02,038 [INFO] Removed from startup.
+2026-09-24 10:30:12,406 [INFO] Registered for startup.
+2026-09-24 10:30:12,407 [INFO] Outlast Presence running. Waiting for game...
+2026-09-24 10:30:12,878 [INFO] The Outlast Trials detected!
+2026-09-24 10:30:12,893 [INFO] Log caught up — state: trial
+2026-09-24 10:30:13,105 [INFO] Status: Traffick the Product — Standard · 1/4 players
+2026-09-24 10:58:30,570 [INFO] Status: In the Sleep Room — 1/4 players
+2026-09-24 10:59:37,055 [INFO] Status: Awaiting...
+2026-09-24 11:01:22,864 [INFO] Status: Shuttle | Locksock the Warden — Standard · 2/4 players
+2026-09-24 11:01:44,186 [INFO] Status: Locksock the Warden — Standard · 2/4 players
+2026-09-24 11:05:51,504 [INFO] Status: Locksock the Warden — Standard · Invasion · 2/4 players
+2026-09-24 11:06:57,965 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-24 11:07:19,127 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-24 11:09:46,845 [INFO] The Outlast Trials closed.
+2026-09-24 11:40:22,709 [INFO] The Outlast Trials detected!
+2026-09-24 11:40:22,752 [INFO] Log caught up — state: lobby
+2026-09-24 11:40:23,269 [INFO] Status: In the Sleep Room — 2/4 players
+2026-09-24 11:43:15,541 [INFO] Removed from startup.

@@ -19,6 +19,8 @@ import psutil
 import pystray
 from PIL import Image, ImageDraw
 
+
+
 APPLICATION_ID = "1551054274543231167"
 APP_NAME = "OutlastPresence"
 POLL_INTERVAL = 3
@@ -198,6 +200,58 @@ class GameState:
         details, state_str = self.to_discord()
         return f"{details} — {state_str}" if state_str else details
 
+def check_for_updates():
+    """Silently check GitHub for a newer release and auto-update if found."""
+    try:
+        import urllib.request
+        import json
+        import subprocess
+
+        url = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
+        req = urllib.request.Request(url, headers={"User-Agent": "OutlastPresence"})
+        with urllib.request.urlopen(req, timeout=5) as r:
+            data = json.loads(r.read())
+
+        latest = data["tag_name"].lstrip("v")
+        if latest <= VERSION:
+            return  # already up to date
+
+        logging.info(f"Update available: v{latest} (current: v{VERSION})")
+
+        # Find the exe asset
+        exe_url = None
+        for asset in data.get("assets", []):
+            if asset["name"].endswith(".exe"):
+                exe_url = asset["browser_download_url"]
+                break
+
+        if not exe_url:
+            return
+
+        # Download new exe next to current one
+        current_exe = sys.executable if getattr(sys, "frozen", False) else None
+        if not current_exe:
+            return  # only auto-update when running as exe
+
+        new_exe = current_exe + ".new"
+        urllib.request.urlretrieve(exe_url, new_exe)
+
+        # Write a small batch file that swaps the exe and restarts
+        bat = current_exe + "_update.bat"
+        with open(bat, "w") as f:
+            f.write(f"""@echo off
+timeout /t 2 /nobreak >nul
+move /y "{new_exe}" "{current_exe}"
+start "" "{current_exe}"
+del "%~f0"
+""")
+
+        logging.info("Update downloaded — applying on restart.")
+        subprocess.Popen(bat, shell=True)
+        sys.exit(0)  # exit so the batch file can replace the exe
+
+    except Exception as e:
+        logging.warning(f"Update check failed: {e}")
 
 def resolve_trial(mission_id):
     if mission_id in TRIAL_NAMES:
@@ -535,7 +589,7 @@ def main():
     ).start()
 
     build_tray(state_ref, stop_event).run()
-
+    check_for_updates()
 
 if __name__ == "__main__":
     try:

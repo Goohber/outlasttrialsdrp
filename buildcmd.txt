@@ -1,0 +1,5 @@
+cd - directory where the .py shit is at
+python -m PyInstaller --onefile --noconsole --name "OutlastPresence" outlast_presence.py
+
+ther you built it lol
+the .exe that i built for u is in the dist folder
